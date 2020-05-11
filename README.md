@@ -4,16 +4,17 @@
 > 1. Delete this quotation
 > 1. Delete tasks from all files
 
-# evaluation-template
+# evaluation-java-template
 
-- [ ] Update name to evaluation-(framework name) here and in package.json too
+- [ ] Update name to evaluation-java-(framework name) here and in package.json too
 
-This is a template repository to create test-ware for evaluating certain test automation tools.
+This is a template repository to create test-ware for evaluating certain (Java) test automation tools.
 
 - [ ] Update description to describe purpose of this repository, e.g. This is a test-ware for evaluation FRAMEWORK test automation tool.
 
 ## Prerequisites
 
+1. Java JDK v8
 1. [ ] Add additional prerequisites if necessary
 
 ## Framework used
